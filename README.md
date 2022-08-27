@@ -15,3 +15,5 @@ BT面板旧版本安装包
 5、执行升级脚本：bash update.sh
 
 6、删除升级包：cd .. && rm -f LinuxPanel-7.4.5.zip && rm -rf panel
+
+更多图文教程请访问：https://masuc.cn/39548.html
