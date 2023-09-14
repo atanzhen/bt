@@ -1,6 +1,16 @@
 BT面板旧版本安装包
 都是官方原版下载下来的
-测试过7.4.5到7.6.0是可以降级的其他的降级后有问题打不开
+测试过7.4.5到7.7.0是可以降级的其他的降级后有问题打不开
+
+降级解除手机绑定的只有这几个版本可以，这几个实测过其他的都不行
+LinuxPanel-7.4.5.zip
+LinuxPanel-7.4.7.zip
+LinuxPanel-7.4.8.zip
+LinuxPanel-7.5.1.zip
+LinuxPanel-7.5.2.zip
+LinuxPanel-7.6.0.zip
+LinuxPanel-7.7.0.zip
+
 
 降级步骤：
 
