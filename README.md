@@ -1,5 +1,7 @@
 BT面板旧版本安装包
 
+更新到5.9.1-8.0.6：https://github.com/atanzhen/bt/releases/tag/BT
+
 都是官方原版下载下来的
 
 测试过7.4.5到7.7.0是可以降级的其他的降级后有问题打不开
